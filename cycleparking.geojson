@@ -1,0 +1,4574 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-11-21T00:31:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/20823873",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1350374,
+          52.2063262
+        ]
+      },
+      "id": "node/20823873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/41983788",
+        "amenity": "bicycle_parking",
+        "capacity": "282",
+        "name": "Park Street Cycle Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1193771,
+          52.2090942
+        ]
+      },
+      "id": "node/41983788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/76757174",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1244873,
+          52.2051275
+        ]
+      },
+      "id": "node/76757174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/116380539",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "9",
+        "covered": "no",
+        "note": "Nine stands, but you could only fit one bike to a stand. Some crazy design."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1190956,
+          52.2043443
+        ]
+      },
+      "id": "node/116380539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/356930550",
+        "amenity": "bicycle_parking",
+        "capacity": "16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1144261,
+          52.1956825
+        ]
+      },
+      "id": "node/356930550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/428855837",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1334848,
+          52.2015305
+        ]
+      },
+      "id": "node/428855837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/428855839",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1307608,
+          52.2012895
+        ]
+      },
+      "id": "node/428855839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/428855843",
+        "amenity": "bicycle_parking",
+        "capacity": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1279823,
+          52.2001552
+        ]
+      },
+      "id": "node/428855843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/428855848",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1262887,
+          52.2028565
+        ]
+      },
+      "id": "node/428855848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/428857599",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.121406,
+          52.2054447
+        ]
+      },
+      "id": "node/428857599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/428857600",
+        "amenity": "bicycle_parking",
+        "capacity": "18",
+        "covered": "no",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1189072,
+          52.2048209
+        ]
+      },
+      "id": "node/428857600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/428857601",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1236149,
+          52.2056536
+        ]
+      },
+      "id": "node/428857601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/428857602",
+        "amenity": "bicycle_parking",
+        "capacity": "36",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1192356,
+          52.2050298
+        ]
+      },
+      "id": "node/428857602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/428857603",
+        "amenity": "bicycle_parking",
+        "capacity": "12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1197158,
+          52.2049062
+        ]
+      },
+      "id": "node/428857603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/428857605",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1214875,
+          52.2068226
+        ]
+      },
+      "id": "node/428857605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/428857606",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1313026,
+          52.2067483
+        ]
+      },
+      "id": "node/428857606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/428857607",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1317636,
+          52.2066277
+        ]
+      },
+      "id": "node/428857607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/428857608",
+        "amenity": "bicycle_parking",
+        "capacity": "24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1326039,
+          52.206098
+        ]
+      },
+      "id": "node/428857608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/428857609",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1339581,
+          52.2051269
+        ]
+      },
+      "id": "node/428857609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/428857610",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1246697,
+          52.205116
+        ]
+      },
+      "id": "node/428857610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/428857611",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.118112,
+          52.2073398
+        ]
+      },
+      "id": "node/428857611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/428858118",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1169618,
+          52.2096127
+        ]
+      },
+      "id": "node/428858118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/510181567",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1303202,
+          52.1968659
+        ]
+      },
+      "id": "node/510181567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/561668123",
+        "amenity": "bicycle_parking",
+        "capacity": "12",
+        "covered": "no",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1189668,
+          52.2054279
+        ]
+      },
+      "id": "node/561668123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/562909674",
+        "amenity": "bicycle_parking",
+        "capacity": "230",
+        "covered": "yes",
+        "hour_off": "07:00:00",
+        "hour_on": "23:00:00",
+        "name": "Grand Arcade cycle park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1203588,
+          52.2041931
+        ]
+      },
+      "id": "node/562909674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/572686658",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.135202,
+          52.204932
+        ]
+      },
+      "id": "node/572686658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/572687096",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1315399,
+          52.2066121
+        ]
+      },
+      "id": "node/572687096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/578582538",
+        "amenity": "bicycle_parking",
+        "capacity": "76",
+        "covered": "no",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1183567,
+          52.2051672
+        ]
+      },
+      "id": "node/578582538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/578788941",
+        "amenity": "bicycle_parking",
+        "capacity": "16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1237042,
+          52.207769
+        ]
+      },
+      "id": "node/578788941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/578790747",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.124356,
+          52.2073596
+        ]
+      },
+      "id": "node/578790747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/578793698",
+        "amenity": "bicycle_parking",
+        "capacity": "8",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1176685,
+          52.2040554
+        ]
+      },
+      "id": "node/578793698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/578804872",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.134066,
+          52.205311
+        ]
+      },
+      "id": "node/578804872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/578806163",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.132843,
+          52.204049
+        ]
+      },
+      "id": "node/578806163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/578806589",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.132832,
+          52.203599
+        ]
+      },
+      "id": "node/578806589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/578812004",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1216322,
+          52.2029001
+        ]
+      },
+      "id": "node/578812004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/578816710",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1199781,
+          52.2046514
+        ]
+      },
+      "id": "node/578816710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/578817898",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1217544,
+          52.2052242
+        ]
+      },
+      "id": "node/578817898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/578820160",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1201992,
+          52.2067758
+        ]
+      },
+      "id": "node/578820160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/578821209",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1195474,
+          52.2067824
+        ]
+      },
+      "id": "node/578821209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/578822331",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1180932,
+          52.207206
+        ]
+      },
+      "id": "node/578822331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/578825350",
+        "amenity": "bicycle_parking",
+        "capacity": "18",
+        "covered": "no",
+        "source": "survey",
+        "type": "sheffield"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.11951,
+          52.209478
+        ]
+      },
+      "id": "node/578825350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/595417854",
+        "amenity": "bicycle_parking",
+        "capacity": "10",
+        "covered": "no",
+        "description": "Stands outside NatWest, on corner",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1229828,
+          52.2040554
+        ]
+      },
+      "id": "node/595417854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/595417855",
+        "amenity": "bicycle_parking",
+        "capacity": "30",
+        "covered": "no",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1224763,
+          52.2047409
+        ]
+      },
+      "id": "node/595417855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/595655350",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.135096,
+          52.20647
+        ]
+      },
+      "id": "node/595655350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/647881945",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "24",
+        "covered": "no",
+        "high_capacity": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1232851,
+          52.2035223
+        ]
+      },
+      "id": "node/647881945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/647883460",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1210978,
+          52.2027581
+        ]
+      },
+      "id": "node/647883460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/793282045",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "potentially",
+        "capacity": "unknown",
+        "cctv": "unknown",
+        "covered": "no",
+        "fixme": "What kind?; if it's wheelbenders, I don't want to know."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1188516,
+          52.2046276
+        ]
+      },
+      "id": "node/793282045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1083922618",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1269718,
+          52.2077637
+        ]
+      },
+      "id": "node/1083922618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1207121213",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1302695,
+          52.1956195
+        ]
+      },
+      "id": "node/1207121213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1226770291",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "20",
+        "covered": "no",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1220342,
+          52.2009759
+        ]
+      },
+      "id": "node/1226770291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1226770292",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "64",
+        "covered": "no",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1216773,
+          52.2010702
+        ]
+      },
+      "id": "node/1226770292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1226770293",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "4",
+        "covered": "no",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1223996,
+          52.2011499
+        ]
+      },
+      "id": "node/1226770293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1226770294",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "4",
+        "covered": "no",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1224926,
+          52.2011317
+        ]
+      },
+      "id": "node/1226770294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1272598829",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1342851,
+          52.2044636
+        ]
+      },
+      "id": "node/1272598829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1322913482",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "capacity": "24",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1146564,
+          52.2062753
+        ]
+      },
+      "id": "node/1322913482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1433968271",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "covered": "yes",
+        "operator": "CCDC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1266324,
+          52.1978193
+        ]
+      },
+      "id": "node/1433968271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1443477915",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "18",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1207953,
+          52.2030972
+        ]
+      },
+      "id": "node/1443477915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1443477934",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "high_capacity",
+        "capacity": "22",
+        "covered": "yes",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1205875,
+          52.2031093
+        ]
+      },
+      "id": "node/1443477934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1443477949",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.120835,
+          52.2031239
+        ]
+      },
+      "id": "node/1443477949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1443477958",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "high_capacity",
+        "capacity": "14",
+        "covered": "yes",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1207737,
+          52.2031446
+        ]
+      },
+      "id": "node/1443477958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1443478041",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "high_capacity",
+        "capacity": "12",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1206563,
+          52.2033138
+        ]
+      },
+      "id": "node/1443478041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1443478056",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "high_capacity",
+        "capacity": "13",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1207013,
+          52.2033389
+        ]
+      },
+      "id": "node/1443478056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1443478059",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "44",
+        "covered": "yes",
+        "note": "secured cycle parking by arrangement only",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1200314,
+          52.2033714
+        ]
+      },
+      "id": "node/1443478059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1443478076",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "88",
+        "covered": "yes",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1201863,
+          52.2034257
+        ]
+      },
+      "id": "node/1443478076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1443478100",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "40",
+        "covered": "yes",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1204617,
+          52.2034825
+        ]
+      },
+      "id": "node/1443478100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1443478124",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "high_capacity",
+        "capacity": "80",
+        "covered": "yes",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1196419,
+          52.2036439
+        ]
+      },
+      "id": "node/1443478124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1448452922",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "64",
+        "covered": "no",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1221861,
+          52.2010141
+        ]
+      },
+      "id": "node/1448452922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1448452932",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "6",
+        "covered": "no",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1225696,
+          52.2012032
+        ]
+      },
+      "id": "node/1448452932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1448452999",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "high_capacity",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.122704,
+          52.2015603
+        ]
+      },
+      "id": "node/1448452999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1448453012",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "10",
+        "covered": "no",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1225429,
+          52.2016289
+        ]
+      },
+      "id": "node/1448453012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1448453028",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "high_capacity",
+        "capacity": "21",
+        "covered": "no",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1231661,
+          52.2016066
+        ]
+      },
+      "id": "node/1448453028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1448453036",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "4",
+        "covered": "no",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1231393,
+          52.2016649
+        ]
+      },
+      "id": "node/1448453036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1448453048",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "4",
+        "covered": "no",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1231044,
+          52.2017142
+        ]
+      },
+      "id": "node/1448453048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1448453136",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "high_capacity",
+        "capacity": "3",
+        "covered": "no",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1228736,
+          52.2018861
+        ]
+      },
+      "id": "node/1448453136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1448453145",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "high_capacity",
+        "capacity": "29",
+        "covered": "yes",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1230084,
+          52.2019219
+        ]
+      },
+      "id": "node/1448453145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1448453155",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "high_capacity",
+        "capacity": "40",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1221904,
+          52.2019416
+        ]
+      },
+      "id": "node/1448453155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1448453165",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "high_capacity",
+        "capacity": "15",
+        "covered": "no",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1234865,
+          52.2019108
+        ]
+      },
+      "id": "node/1448453165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1448453170",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "high_capacity",
+        "capacity": "25",
+        "covered": "yes",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1232066,
+          52.2019704
+        ]
+      },
+      "id": "node/1448453170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1448453183",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "high_capacity",
+        "capacity": "19",
+        "covered": "yes",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.124178,
+          52.202014
+        ]
+      },
+      "id": "node/1448453183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1448453223",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "ground_slots",
+        "capacity": "28",
+        "covered": "no",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1239679,
+          52.2020737
+        ]
+      },
+      "id": "node/1448453223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1448453228",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "high_capacity",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1240906,
+          52.2020826
+        ]
+      },
+      "id": "node/1448453228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1448453242",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "20",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1211551,
+          52.2021136
+        ]
+      },
+      "id": "node/1448453242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1448453308",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "high_capacity",
+        "capacity": "16",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1221706,
+          52.2023468
+        ]
+      },
+      "id": "node/1448453308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1448453396",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "34",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1219216,
+          52.202665
+        ]
+      },
+      "id": "node/1448453396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1448453438",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "34",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1222158,
+          52.2028084
+        ]
+      },
+      "id": "node/1448453438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1448453464",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1213556,
+          52.2029035
+        ]
+      },
+      "id": "node/1448453464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1448453471",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "24",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1214695,
+          52.2029369
+        ]
+      },
+      "id": "node/1448453471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1448802424",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "40",
+        "covered": "yes",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1185797,
+          52.2039746
+        ]
+      },
+      "id": "node/1448802424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1448802428",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "40",
+        "covered": "yes",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.118631,
+          52.2039896
+        ]
+      },
+      "id": "node/1448802428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1459270646",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1204823,
+          52.2044812
+        ]
+      },
+      "id": "node/1459270646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474503390",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "10",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1225171,
+          52.1981227
+        ]
+      },
+      "id": "node/1474503390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474503394",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "10",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1226793,
+          52.1981386
+        ]
+      },
+      "id": "node/1474503394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474503404",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1235667,
+          52.1981728
+        ]
+      },
+      "id": "node/1474503404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474503428",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "t",
+        "capacity": "98",
+        "covered": "yes",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1233358,
+          52.1984431
+        ]
+      },
+      "id": "node/1474503428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474503473",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "covered": "yes",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1231531,
+          52.198739
+        ]
+      },
+      "id": "node/1474503473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474503499",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "54",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1223831,
+          52.1990806
+        ]
+      },
+      "id": "node/1474503499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474503510",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "84",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1229531,
+          52.1990941
+        ]
+      },
+      "id": "node/1474503510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474503517",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "40",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1225412,
+          52.1992182
+        ]
+      },
+      "id": "node/1474503517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474503561",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "54",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1227326,
+          52.1995835
+        ]
+      },
+      "id": "node/1474503561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474503572",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.122413,
+          52.1997227
+        ]
+      },
+      "id": "node/1474503572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474503578",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "30",
+        "covered": "yes",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1214681,
+          52.199725
+        ]
+      },
+      "id": "node/1474503578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474503587",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "14",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.120966,
+          52.1999286
+        ]
+      },
+      "id": "node/1474503587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474503595",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "88",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1212229,
+          52.2000105
+        ]
+      },
+      "id": "node/1474503595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474503604",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "hoop",
+        "capacity": "120",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.121206,
+          52.2000304
+        ]
+      },
+      "id": "node/1474503604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474503624",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "10",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1207973,
+          52.2001219
+        ]
+      },
+      "id": "node/1474503624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474503679",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "15",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1219728,
+          52.2003183
+        ]
+      },
+      "id": "node/1474503679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474503692",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "12",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1219417,
+          52.2003525
+        ]
+      },
+      "id": "node/1474503692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474503709",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "high_density",
+        "capacity": "36",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1217406,
+          52.200502
+        ]
+      },
+      "id": "node/1474503709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474503720",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "10",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.121594,
+          52.2005894
+        ]
+      },
+      "id": "node/1474503720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1475178847",
+        "amenity": "bicycle_parking",
+        "capacity": "8",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1337729,
+          52.2054783
+        ]
+      },
+      "id": "node/1475178847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1481450629",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "14",
+        "operator": "Downing College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1228184,
+          52.2011723
+        ]
+      },
+      "id": "node/1481450629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1481450630",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "32",
+        "covered": "yes",
+        "operator": "Downing College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1233924,
+          52.2014293
+        ]
+      },
+      "id": "node/1481450630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1490410993",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "28",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1162945,
+          52.2051639
+        ]
+      },
+      "id": "node/1490410993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1490411039",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "164",
+        "note": "in undercroft accessed from ramps",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1164121,
+          52.2053565
+        ]
+      },
+      "id": "node/1490411039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1491920345",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "24",
+        "operator": "Hughes Hall (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1329375,
+          52.2008562
+        ]
+      },
+      "id": "node/1491920345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1491920346",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "42",
+        "operator": "Hughes Hall (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1328245,
+          52.2008572
+        ]
+      },
+      "id": "node/1491920346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1491920383",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "7",
+        "operator": "Hughes Hall (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1329349,
+          52.2009367
+        ]
+      },
+      "id": "node/1491920383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1491920388",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "20",
+        "operator": "Hughes Hall (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1323693,
+          52.2009522
+        ]
+      },
+      "id": "node/1491920388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1493425528",
+        "amenity": "bicycle_parking",
+        "capacity": "16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1293469,
+          52.2081254
+        ]
+      },
+      "id": "node/1493425528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1494177190",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "80",
+        "covered": "yes",
+        "operator": "Hughes Hall (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1314201,
+          52.2007998
+        ]
+      },
+      "id": "node/1494177190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495245073",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "77",
+        "covered": "yes",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1203999,
+          52.197751
+        ]
+      },
+      "id": "node/1495245073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495245089",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "slot",
+        "capacity": "10",
+        "covered": "yes",
+        "note": "staff",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1204092,
+          52.1978878
+        ]
+      },
+      "id": "node/1495245089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495245122",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "68",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1205015,
+          52.1980807
+        ]
+      },
+      "id": "node/1495245122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495245125",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "8",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1203512,
+          52.1981544
+        ]
+      },
+      "id": "node/1495245125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495245129",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "64",
+        "note": "ranged around fountain",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1204311,
+          52.1981617
+        ]
+      },
+      "id": "node/1495245129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495245131",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "74",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.120578,
+          52.1981851
+        ]
+      },
+      "id": "node/1495245131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495245140",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "18",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1217854,
+          52.1982267
+        ]
+      },
+      "id": "node/1495245140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495245141",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "42",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1203707,
+          52.198231
+        ]
+      },
+      "id": "node/1495245141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495245165",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "52",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1210294,
+          52.1983008
+        ]
+      },
+      "id": "node/1495245165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495245166",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "hooks",
+        "capacity": "34",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1201588,
+          52.1983138
+        ]
+      },
+      "id": "node/1495245166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495245171",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "16",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1217454,
+          52.198314
+        ]
+      },
+      "id": "node/1495245171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495245185",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "16",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1217218,
+          52.1983815
+        ]
+      },
+      "id": "node/1495245185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495245193",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "30",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.12099,
+          52.1984262
+        ]
+      },
+      "id": "node/1495245193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495245197",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "86",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.120427,
+          52.1984765
+        ]
+      },
+      "id": "node/1495245197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495245201",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1210122,
+          52.1984898
+        ]
+      },
+      "id": "node/1495245201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495245205",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "36",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1216681,
+          52.1985161
+        ]
+      },
+      "id": "node/1495245205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495245211",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "101",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1213026,
+          52.1985354
+        ]
+      },
+      "id": "node/1495245211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495245214",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "30",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1208799,
+          52.1985424
+        ]
+      },
+      "id": "node/1495245214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495245216",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "10",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.121,
+          52.1985595
+        ]
+      },
+      "id": "node/1495245216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495245229",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "64",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1212718,
+          52.1985972
+        ]
+      },
+      "id": "node/1495245229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495245232",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "name": "pool bikes",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1210794,
+          52.1982175
+        ]
+      },
+      "id": "node/1495245232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495298854",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "184",
+        "covered": "yes",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1246095,
+          52.1975298
+        ]
+      },
+      "id": "node/1495298854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495298949",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "10",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1260318,
+          52.1981736
+        ]
+      },
+      "id": "node/1495298949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495298954",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "90",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1252833,
+          52.198219
+        ]
+      },
+      "id": "node/1495298954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495298956",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "30",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1259564,
+          52.1982775
+        ]
+      },
+      "id": "node/1495298956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495612374",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "FIXME",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1166629,
+          52.2011757
+        ]
+      },
+      "id": "node/1495612374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495612551",
+        "access": "staff",
+        "amenity": "bicycle_parking",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1177889,
+          52.2013692
+        ]
+      },
+      "id": "node/1495612551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495612636",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "20",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1173369,
+          52.2014937
+        ]
+      },
+      "id": "node/1495612636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495612646",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "FIXME",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1173884,
+          52.2015024
+        ]
+      },
+      "id": "node/1495612646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495612730",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "FIXME",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1174574,
+          52.2015894
+        ]
+      },
+      "id": "node/1495612730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495612754",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "60",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1173741,
+          52.2016304
+        ]
+      },
+      "id": "node/1495612754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495612777",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "high_capacity",
+        "capacity": "12",
+        "covered": "yes",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1178416,
+          52.201657
+        ]
+      },
+      "id": "node/1495612777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495612791",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "5",
+        "covered": "yes",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1164884,
+          52.2016737
+        ]
+      },
+      "id": "node/1495612791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495612860",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "14",
+        "covered": "yes",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1178976,
+          52.2017783
+        ]
+      },
+      "id": "node/1495612860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495612875",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "high_capacity",
+        "capacity": "8",
+        "covered": "yes",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1162605,
+          52.2018219
+        ]
+      },
+      "id": "node/1495612875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495612929",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "10",
+        "covered": "yes",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1164837,
+          52.2019235
+        ]
+      },
+      "id": "node/1495612929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495612963",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "20",
+        "covered": "yes",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1163135,
+          52.2019702
+        ]
+      },
+      "id": "node/1495612963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495612976",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "10",
+        "covered": "yes",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1164925,
+          52.2019824
+        ]
+      },
+      "id": "node/1495612976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495669309",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "14",
+        "covered": "no",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1206725,
+          52.199713
+        ]
+      },
+      "id": "node/1495669309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1498617969",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "covered": "yes",
+        "operator": "Pembroke College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1192613,
+          52.2013681
+        ]
+      },
+      "id": "node/1498617969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1498618002",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "railing",
+        "capacity": "~50",
+        "operator": "Pembroke College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.118963,
+          52.2015612
+        ]
+      },
+      "id": "node/1498618002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1498618095",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "50",
+        "operator": "Pembroke College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.121019,
+          52.2020473
+        ]
+      },
+      "id": "node/1498618095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1498618128",
+        "access": "staff",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "high_capacity",
+        "capacity": "86",
+        "covered": "yes",
+        "operator": "Pembroke College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1208978,
+          52.2023079
+        ]
+      },
+      "id": "node/1498618128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1512937698",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "174",
+        "operator": "Magdalene College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1154974,
+          52.2101633
+        ]
+      },
+      "id": "node/1512937698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1527257517",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "9",
+        "operator": "Clare College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.115954,
+          52.2050903
+        ]
+      },
+      "id": "node/1527257517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1527257547",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "23",
+        "operator": "Clare College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1159528,
+          52.2052047
+        ]
+      },
+      "id": "node/1527257547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1547134939",
+        "access": "visitor",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "40",
+        "name": "Botanic Gardens Visitor Cycle Park",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1236122,
+          52.1949323
+        ]
+      },
+      "id": "node/1547134939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1569837685",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "30",
+        "operator": "Darwin College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1137346,
+          52.1988349
+        ]
+      },
+      "id": "node/1569837685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1569838519",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "operator": "Darwin College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1146529,
+          52.2011181
+        ]
+      },
+      "id": "node/1569838519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1569838533",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "operator": "Darwin College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1145502,
+          52.2011698
+        ]
+      },
+      "id": "node/1569838533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1569838534",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "4",
+        "operator": "Darwin College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1145883,
+          52.2012064
+        ]
+      },
+      "id": "node/1569838534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1606778307",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "70",
+        "operator": "Sidney Sussex College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1209045,
+          52.2070594
+        ]
+      },
+      "id": "node/1606778307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1606778708",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "scissors",
+        "capacity": "12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1217869,
+          52.2073685
+        ]
+      },
+      "id": "node/1606778708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1607012793",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "35",
+        "operator": "Christ's College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1216256,
+          52.2065522
+        ]
+      },
+      "id": "node/1607012793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1607012841",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "railing",
+        "operator": "Christ's College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1224929,
+          52.2066429
+        ]
+      },
+      "id": "node/1607012841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1607012845",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "railing",
+        "operator": "Christ's College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1226205,
+          52.2066436
+        ]
+      },
+      "id": "node/1607012845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1607012866",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "railing",
+        "operator": "Christ's College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1223284,
+          52.2066611
+        ]
+      },
+      "id": "node/1607012866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1607013121",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "12",
+        "operator": "Christ's College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1223365,
+          52.2071437
+        ]
+      },
+      "id": "node/1607013121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1607013126",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "railing",
+        "capacity": "11",
+        "operator": "Christ's College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1222896,
+          52.2071822
+        ]
+      },
+      "id": "node/1607013126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1613188457",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "12",
+        "covered": "yes",
+        "operator": "Queens' College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1141643,
+          52.2016581
+        ]
+      },
+      "id": "node/1613188457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1613188481",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "80",
+        "covered": "yes",
+        "operator": "Queens' College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1143704,
+          52.2017028
+        ]
+      },
+      "id": "node/1613188481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1613188536",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "100",
+        "covered": "yes",
+        "operator": "Queens' College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1145488,
+          52.2018706
+        ]
+      },
+      "id": "node/1613188536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1619379457",
+        "access": "fellows",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "10",
+        "operator": "Corpus Christi College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1178322,
+          52.2028825
+        ]
+      },
+      "id": "node/1619379457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1620674993",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.118495,
+          52.2035188
+        ]
+      },
+      "id": "node/1620674993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1620675004",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1184736,
+          52.2035943
+        ]
+      },
+      "id": "node/1620675004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1620675043",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "60",
+        "operator": "Corpus Christi College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.117963,
+          52.2042789
+        ]
+      },
+      "id": "node/1620675043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1620675056",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "5",
+        "operator": "Corpus Christi College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1179864,
+          52.2043928
+        ]
+      },
+      "id": "node/1620675056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1697870610",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "40",
+        "covered": "yes",
+        "operator": "Peterhouse (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1200115,
+          52.1989836
+        ]
+      },
+      "id": "node/1697870610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1697870618",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "37",
+        "operator": "Peterhouse (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1211838,
+          52.1989876
+        ]
+      },
+      "id": "node/1697870618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1697871014",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "4",
+        "operator": "Peterhouse (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1179703,
+          52.2004536
+        ]
+      },
+      "id": "node/1697871014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1697871215",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "8",
+        "covered": "yes",
+        "operator": "Peterhouse (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1202124,
+          52.2006954
+        ]
+      },
+      "id": "node/1697871215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1697871452",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "12",
+        "operator": "Peterhouse (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1208384,
+          52.2008522
+        ]
+      },
+      "id": "node/1697871452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1697871673",
+        "access": "fellows",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "high_capacity",
+        "capacity": "10",
+        "covered": "yes",
+        "operator": "Peterhouse (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.118583,
+          52.2009246
+        ]
+      },
+      "id": "node/1697871673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1697871809",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "high_capacity",
+        "capacity": "10",
+        "covered": "yes",
+        "operator": "Peterhouse (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1185117,
+          52.2010235
+        ]
+      },
+      "id": "node/1697871809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1697871823",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "10",
+        "covered": "yes",
+        "operator": "Peterhouse (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1200318,
+          52.2010539
+        ]
+      },
+      "id": "node/1697871823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1697871849",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "railing",
+        "capacity": "42",
+        "operator": "Peterhouse (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.118867,
+          52.2010635
+        ]
+      },
+      "id": "node/1697871849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1697871973",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "4",
+        "operator": "Peterhouse (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.120424,
+          52.2011347
+        ]
+      },
+      "id": "node/1697871973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1697872021",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "railing",
+        "capacity": "18",
+        "operator": "Peterhouse (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1187628,
+          52.2011548
+        ]
+      },
+      "id": "node/1697872021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1710340852",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "18",
+        "operator": "St John's College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.118062,
+          52.208325
+        ]
+      },
+      "id": "node/1710340852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1710341075",
+        "access": "fellows",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "operator": "St John's College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1181789,
+          52.2083888
+        ]
+      },
+      "id": "node/1710341075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1710341271",
+        "access": "fellows",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "operator": "St John's College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.117563,
+          52.2084494
+        ]
+      },
+      "id": "node/1710341271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1710341406",
+        "access": "fellows",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "operator": "St John's College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.117487,
+          52.2084766
+        ]
+      },
+      "id": "node/1710341406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1710341605",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "operator": "St John's College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1180986,
+          52.20853
+        ]
+      },
+      "id": "node/1710341605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1730656068",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "60",
+        "operator": "Jesus College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1255106,
+          52.2089294
+        ]
+      },
+      "id": "node/1730656068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1731266533",
+        "access": "visitor",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "rail",
+        "capacity": "12",
+        "operator": "Emmanuel College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1236021,
+          52.2035376
+        ]
+      },
+      "id": "node/1731266533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1731266547",
+        "access": "visitor",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "rail",
+        "capacity": "12",
+        "operator": "Emmanuel College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1235801,
+          52.2035619
+        ]
+      },
+      "id": "node/1731266547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1731266778",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "capacity": "many",
+        "covered": "yes",
+        "operator": "Emmanuel College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1265253,
+          52.2041541
+        ]
+      },
+      "id": "node/1731266778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1731267004",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "high_capacity",
+        "capacity": "15",
+        "operator": "Emmanuel College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1233409,
+          52.2047874
+        ]
+      },
+      "id": "node/1731267004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1731267027",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "high_capacity",
+        "capacity": "15",
+        "operator": "Emmanuel College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1234501,
+          52.2048754
+        ]
+      },
+      "id": "node/1731267027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1731267046",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "20",
+        "operator": "Emmanuel College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1235481,
+          52.2049544
+        ]
+      },
+      "id": "node/1731267046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1764445965",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "note": "underground cycle store",
+        "operator": "King's College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1163726,
+          52.2035971
+        ]
+      },
+      "id": "node/1764445965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1772728029",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "70",
+        "operator": "Trinity Hall (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1158328,
+          52.2059345
+        ]
+      },
+      "id": "node/1772728029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1772728033",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "30",
+        "operator": "Trinity Hall (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1156026,
+          52.2059416
+        ]
+      },
+      "id": "node/1772728033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1772728070",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "high_capacity",
+        "capacity": "6",
+        "operator": "Trinity Hall (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1161086,
+          52.2059785
+        ]
+      },
+      "id": "node/1772728070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1776358049",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "28",
+        "operator": "Trinity College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1157449,
+          52.2063061
+        ]
+      },
+      "id": "node/1776358049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1776358134",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "10",
+        "operator": "Trinity College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1158589,
+          52.2063911
+        ]
+      },
+      "id": "node/1776358134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1776358206",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "15",
+        "operator": "Trinity College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1162372,
+          52.2064275
+        ]
+      },
+      "id": "node/1776358206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1776358255",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "15",
+        "operator": "Trinity College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1159836,
+          52.206442
+        ]
+      },
+      "id": "node/1776358255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1776359036",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "70",
+        "operator": "Trinity College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1177449,
+          52.2068166
+        ]
+      },
+      "id": "node/1776359036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1995719650",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1260564,
+          52.1984242
+        ]
+      },
+      "id": "node/1995719650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2132932120",
+        "amenity": "bicycle_parking",
+        "capacity": "50",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1202515,
+          52.2084097
+        ]
+      },
+      "id": "node/2132932120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2272437648",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1305417,
+          52.2013145
+        ]
+      },
+      "id": "node/2272437648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2353484782",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1291664,
+          52.2032767
+        ]
+      },
+      "id": "node/2353484782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2692451510",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "toast_rack;sheffield",
+        "capacity": "30",
+        "covered": "no",
+        "operator": "St Catharine's College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1287236,
+          52.1967835
+        ]
+      },
+      "id": "node/2692451510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3110634139",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "20",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1199462,
+          52.2070581
+        ]
+      },
+      "id": "node/3110634139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3355109461",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "20",
+        "covered": "no",
+        "note": "There are two bike racks in front of Sainsbury's;I'm not sure how far apart they are"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1198087,
+          52.2071952
+        ]
+      },
+      "id": "node/3355109461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3366499025",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "covered": "no",
+        "cyclestreets_id": "64502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1235293,
+          52.2054341
+        ]
+      },
+      "id": "node/3366499025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3427018631",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1353199,
+          52.2093802
+        ]
+      },
+      "id": "node/3427018631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3542170059",
+        "amenity": "bicycle_parking",
+        "capacity": "32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1184805,
+          52.2037849
+        ]
+      },
+      "id": "node/3542170059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3669977777",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "18",
+        "operator": "Downing College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1238194,
+          52.2014492
+        ]
+      },
+      "id": "node/3669977777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3838098998",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1215505,
+          52.2052612
+        ]
+      },
+      "id": "node/3838098998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3932004880",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "covered": "no",
+        "fee": "no",
+        "opening_hours": "24/7",
+        "supervised": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1358806,
+          52.2085163
+        ]
+      },
+      "id": "node/3932004880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3957947818",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "covered": "no",
+        "fee": "no",
+        "opening_hours": "24/7",
+        "supervised": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1360306,
+          52.2087736
+        ]
+      },
+      "id": "node/3957947818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4046060213",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "20",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1178673,
+          52.2038645
+        ]
+      },
+      "id": "node/4046060213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4195517245",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "v",
+        "capacity": "72",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1211685,
+          52.1980574
+        ]
+      },
+      "id": "node/4195517245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4448790379",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "20",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1219187,
+          52.19877
+        ]
+      },
+      "id": "node/4448790379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4448790380",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "24",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1213876,
+          52.1993635
+        ]
+      },
+      "id": "node/4448790380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4448790381",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "24",
+        "covered": "no",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1206084,
+          52.1997597
+        ]
+      },
+      "id": "node/4448790381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4448790382",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "24",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.120371,
+          52.2001066
+        ]
+      },
+      "id": "node/4448790382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4687229926",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "6",
+        "operator": "Hughes Hall (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1311012,
+          52.1990159
+        ]
+      },
+      "id": "node/4687229926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4721994648",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "60",
+        "covered": "yes",
+        "operator": "Downing College (University of Cambridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1252023,
+          52.200966
+        ]
+      },
+      "id": "node/4721994648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4771029231",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "20",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.131948,
+          52.2033638
+        ]
+      },
+      "id": "node/4771029231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4968177592",
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "30",
+        "covered": "yes",
+        "operator": "University of Cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1306682,
+          52.1951414
+        ]
+      },
+      "id": "node/4968177592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5003686495",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "60",
+        "covered": "no",
+        "cyclestreets_id": "59766"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1175531,
+          52.2034223
+        ]
+      },
+      "id": "node/5003686495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5003690204",
+        "access": "destination",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "20",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1174055,
+          52.2044673
+        ]
+      },
+      "id": "node/5003690204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5003690205",
+        "access": "destination",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "20",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.11743,
+          52.204247
+        ]
+      },
+      "id": "node/5003690205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5003985019",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1262357,
+          52.2006721
+        ]
+      },
+      "id": "node/5003985019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5003985020",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1263362,
+          52.2005129
+        ]
+      },
+      "id": "node/5003985020"
+    }
+  ]
+}

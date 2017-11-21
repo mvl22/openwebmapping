@@ -1,0 +1,69 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+        <title>Map</title>
+
+        <!-- Load Leaflet.js and styles from a CDN -->
+        <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"></script>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" />
+
+        <style type="text/css">
+            #map {width: 100%; height: 600px;}
+        </style>
+</head>
+<body>
+
+    <!-- The div where the map goes -->
+    <div id="map"></div>
+
+    <!-- Map javascript -->
+    <script type="text/javascript">
+
+        // Create a map
+        var map = L.map('map')
+            .setView([52.2015, 0.127], 17);    // Easy way to work out lat/lon/zoom is http://www.openstreetmap.org/
+
+        // Add tile background
+        L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        // Load GeoJSON from file
+        var geojsonData = {
+          "type": "FeatureCollection",
+          "features": [
+            {
+              "type": "Feature",
+              "properties": {},
+              "geometry": {
+                "type": "Point",
+                "coordinates": [0.12484, 52.202]
+              }
+            },
+            {
+              "type": "Feature",
+              "properties": {},
+              "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                  [
+                    [0.12590, 52.20172],
+                    [0.127683, 52.20055],
+                    [0.127876, 52.20194],
+                    [0.125902, 52.20172]
+                  ]
+                ]
+              }
+            }
+          ]
+        }
+
+        // Add the GeoJSON to the map
+        L.geoJSON(geojsonData).addTo(map);
+
+
+    </script>
+
+</body>
+</html>

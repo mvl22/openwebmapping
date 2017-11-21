@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+        <title>Map</title>
+
+        <!-- Load Leaflet.js and styles from a CDN -->
+        <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"></script>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" />
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js"></script>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+        <style type="text/css">
+            #map {width: 100%; height: 600px;}
+        </style>
+</head>
+<body>
+
+    <!-- The div where the map goes -->
+    <div id="map"></div>
+
+    <!-- Map javascript -->
+    <script type="text/javascript">
+
+        // Create a map
+        var map = L.map('map')
+            .setView([52.2015, 0.127], 14);    // Easy way to work out lat/lon/zoom is http://www.openstreetmap.org/
+
+        // Add tile background
+        L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        // Add the GeoJSON data in the file to the map
+        var url = 'https://api.cyclestreets.net/v2/photomap.locations?key=b2b70892933aa9a8&limit=200&fields=id%2Cname%2ChasPhoto%2CcategoryId%2CcategoryPlural%2CmetacategoryName%2CiconProperties%2CthumbnailUrl&thumbnailsize=250&urlprefix=&iconset=cyclestreets&bbox=0.10549%2C52.19501%2C0.14565%2C52.21079&zoom=15'
+
+        // Obtain over AJAX
+        $.ajax({
+            type: "GET",
+            url: url,
+            dataType: 'json',
+            success: function (data) {
+                L.geoJson(data).addTo(map);
+            }
+        });
+
+    </script>
+
+</body>
+</html>

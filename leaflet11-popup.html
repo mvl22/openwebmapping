@@ -1,0 +1,93 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+        <title>Map</title>
+
+        <!-- Load Leaflet.js and styles from a CDN -->
+        <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"></script>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" />
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js"></script>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+        <style type="text/css">
+            #map {width: 100%; height: 600px;}
+        </style>
+</head>
+<body>
+
+    <!-- The div where the map goes -->
+    <div id="map"></div>
+
+    <!-- Map javascript -->
+    <script type="text/javascript">
+
+        // Create a map
+        var map = L.map('map')
+            .setView([52.2015, 0.127], 14);    // Easy way to work out lat/lon/zoom is http://www.openstreetmap.org/
+
+        // Add tile background
+        L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        function loadData () {
+
+            // Add the GeoJSON data in the file to the map
+            var url = 'https://api.cyclestreets.net/v2/photomap.locations';
+
+            var params = {
+                key: 'b2b70892933aa9a8',
+                limit: 50,
+                fields: 'id,latitude,longitude,caption,username,categoryId,categoryName,iconUrl',
+                bbox: map.getBounds().toBBoxString()
+            };
+
+            // Obtain over AJAX
+            $.ajax({
+                type: "GET",
+                data: params,
+                url: url,
+                dataType: 'json',
+                success: function (data) {
+                    L.geoJson(data, {
+
+                        // Set popup
+                        onEachFeature: function (feature, layer) {
+                            //console.log(feature.properties);
+                            var popupContent = '<p><strong>' + feature.properties.caption + '</strong></p>';
+                            popupContent += '<p>By: ' + feature.properties.username + '</p>';
+                            popupContent += '<p>Category: ' + feature.properties.categoryName + '</p>';
+                            layer.bindPopup(popupContent);
+                        },
+
+                        // Set icon
+                        pointToLayer: function (feature, latlng) {
+                            var icon = L.marker (latlng, {
+        						icon: L.icon({
+        							iconUrl: feature.properties.iconUrl,
+        							iconSize: [38, 42]
+        						})
+        					});
+                            return icon;
+                        }
+
+                    }).addTo(map);
+                }
+            });
+        }
+
+        // Initial load
+        loadData();
+
+        // Set a handler to reload when moving the map
+        map.on ('moveend', function (e) {
+            loadData();
+        });
+
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+        <title>Map</title>
+
+        <!-- Load Leaflet.js and styles from a CDN -->
+        <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"></script>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" />
+
+        <style type="text/css">
+            #map {width: 100%; height: 600px;}
+        </style>
+</head>
+<body>
+
+    <!-- The div where the map goes -->
+    <div id="map"></div>
+
+    <!-- Map javascript -->
+    <script type="text/javascript">
+
+        // Create a map
+        var map = L.map('map')
+            .setView([52.2015, 0.127], 17);    // Easy way to work out lat/lon/zoom is http://www.openstreetmap.org/
+
+        // Add tile background
+        L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        // Custom marker
+        var greenIcon = L.icon({
+            iconUrl: 'https://pbs.twimg.com/profile_images/378800000613184931/592484a5361229bb7b510df3accadebc_80x80.png',
+            iconSize:     [80, 80], // size of the icon
+            iconAnchor:   [40, 80], // point of the icon which will correspond to marker's location
+            popupAnchor:  [0, -74] // point from which the popup should open relative to the iconAnchor
+        });
+
+        // Add a marker
+        L.marker([52.20203, 0.12466], {icon: greenIcon})
+            .addTo(map)
+            .bindPopup("We're here at Novi!<br />Hi PHP Cambridge :)")
+            .openPopup();
+
+        // Add a polygon
+        var polygon = L.polygon([
+            [52.20170, 0.12587],
+            [52.20201, 0.12804],
+            [52.20031, 0.12777]
+        ], {color: 'red'}).addTo(map);
+        polygon.bindPopup("I am a corner of Parker's Piece.");
+        
+    </script>
+
+</body>
+</html>
